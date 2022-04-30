@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Af7t7mp2VAqDNvgo5LYDO/kvUK1n4VtDW4YelzW3tIqs5LF3Y40iyr4cmUCFeQZYHu6e7lmeKPmBX5sfZpAGeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\covuk\\source\\repos\\ContactBook\\ContactBook\\ContactBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\covuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}

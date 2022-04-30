@@ -1,0 +1,9 @@
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csproj.AssemblyReference.cache
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\Views\ContactDetailPage.xaml.g.cs
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\Views\ContactsPage.xaml.g.cs
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfo.cs
+C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csproj.CoreCompileInputs.cache

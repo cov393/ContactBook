@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Td3hkUF0QdqBB9u5wB6KT6iYSeJWanBrsyA7sv3w5teLBzJb6j2TgNBlEtg1+CvQD/Brrdpi1hSjUUf2WowcuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\covuk\\source\\repos\\ContactBook\\ContactBook.iOS\\ContactBook.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\covuk\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\covuk\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}
