@@ -1,4 +1,6 @@
-﻿using SQLite;
+﻿//using ServiceStack.DataAnnotations;
+//using System.ComponentModel.DataAnnotations;
+using SQLite;
 
 namespace ContactBook
 {

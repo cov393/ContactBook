@@ -5,6 +5,7 @@ namespace ContactBook.Persistence
     public interface ISQLiteDb
     {
         SQLiteAsyncConnection GetConnection();
+
     }
 }
 

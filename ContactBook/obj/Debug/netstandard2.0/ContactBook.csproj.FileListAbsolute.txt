@@ -7,3 +7,11 @@ C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\Vie
 C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfoInputs.cache
 C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.AssemblyInfo.cs
 C:\Users\covuk\source\repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.deps.json
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.dll
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\bin\Debug\netstandard2.0\ref\ContactBook.dll
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\bin\Debug\netstandard2.0\ContactBook.pdb
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.dll
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ref\ContactBook.dll
+C:\Users\covuk\Source\Repos\ContactBook\ContactBook\obj\Debug\netstandard2.0\ContactBook.pdb
